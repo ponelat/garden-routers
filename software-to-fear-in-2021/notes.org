@@ -1,0 +1,29 @@
+# ![h:80px](./meetup-logo.svg) /GardenRouters
+## Software to fear (and love) in 2021
+# Preamble
+# Protection of Personal Information (POPI)
+#### Conclusion: **Fear** &mdash; gotta get compliant
+# Cypress (and others)
+# Cypress (and others)
+#### Conclusion: **Fear** &mdash; browser testing still sucks
+## Testing-Library(.com)
+#### Guiding Principles
+#### Conclusion: **Love** &mdash; these are easy to write!
+# OpenAI's GPT-3
+## OpenAI's GPT-3 - Use cases
+### Tabnine
+## OpenAI's GPT-3 - Use cases
+### Flowrite
+# OpenAI's GPT-3
+#### Conclusion: **Fear** &mdash; Obviously terrifying.
+# TailwindCSS
+## TailwindCSS - Why?
+#### **“Best practices” don’t actually work.**
+# TailwindCSS
+#### Conclusion: **Love** &mdash; Makes styling pleasureable again.
+# Jamstack
+## Jamstack - What/Why
+#### Conclusion: **Love** &mdash; Stop burning CPU cycles, compile static.
+# 2021 - What else?
+# Garden Routers
+#### Conclusion: **Love** &mdash; 2021
